@@ -50,9 +50,9 @@ Terbiasa bekerja secara tim maupun individu, serta mampu beradaptasi dengan cepa
 
 ## 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helium01&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helium01&layout=compact&theme=tokyonight)
 
 ---
 
