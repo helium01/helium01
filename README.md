@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+am+Fajar+Wijaya;Software+Developer" />
+</p>
 # 👋 Halo, Saya Fajar Wijaya
 
 💻 Software Developer yang fokus pada pengembangan web dan backend  
