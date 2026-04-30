@@ -59,7 +59,7 @@ Terbiasa bekerja secara tim maupun individu, serta mampu beradaptasi dengan cepa
 ## 📫 Hubungi Saya
 
 📧 Email: fajarw935@gmail.com  
-🌐 Portofolio: [https://yourportfolio.com ](https://helium01.github.io/portofolio/) 
+🌐 Portofolio: https://helium01.github.io/portofolio/
 💼 LinkedIn: https://www.linkedin.com/in/fajar-yuris-wijayanto
 
 ---
