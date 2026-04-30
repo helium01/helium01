@@ -58,12 +58,12 @@ Terbiasa bekerja secara tim maupun individu, serta mampu beradaptasi dengan cepa
 
 ## 📫 Hubungi Saya
 
-📧 Email: emailkamu@gmail.com  
-🌐 Portofolio: https://yourportfolio.com  
-💼 LinkedIn: https://linkedin.com/in/username  
+📧 Email: fajarw935@gmail.com  
+🌐 Portofolio: [https://yourportfolio.com ](https://helium01.github.io/portofolio/) 
+💼 LinkedIn: https://www.linkedin.com/in/fajar-yuris-wijayanto
 
 ---
 
 ## ✨ Motto
 
-> "Terus belajar, berkembang, dan menciptakan solusi yang berdampak."
+> "Shinra Tensei!"
